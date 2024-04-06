@@ -137,6 +137,7 @@ nav a:hover{
     width: 50%;
     background-color: rgb(241, 241, 121);
     border-style: solid;
+    text-decoration: none;
     transition: background-color rgb(247, 247, 33) 10s ease-out;
     border-radius: 15px 15px 15px 15px;
 }
