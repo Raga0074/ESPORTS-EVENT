@@ -131,7 +131,7 @@ nav a:hover{
     text-align: center;
 }
 
-#register button{
+#register a{
     font-size: 20px;
     font: bold;
     width: 50%;
@@ -141,7 +141,7 @@ nav a:hover{
     border-radius: 15px 15px 15px 15px;
 }
 
-#register button:hover{
+#register a:hover{
     background-color: rgb(247, 247, 33);
     border-color: rgba(191, 87, 87, 0.851);
 }
