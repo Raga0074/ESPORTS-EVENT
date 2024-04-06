@@ -2,8 +2,6 @@
 
   # E-sports gaming Website
 
-  ![Eposrts Gaming]("https://ibb.co/R34vPN1")
-
   A website built fully dynamic and responsive with every element responding to scroll
 
   ## Demo
@@ -13,7 +11,8 @@
   ## technology
 
   - **HTML and CSS:** Developed using HTML and CSS for beginner stages.
-  - **Modern Animations:** Animations were the main player in this website making with the help of GSAP and locomotive.
+  - **Elements** Added few elements for the convenience of the participants.
+  - **Note:** Would be updating this website as i make it more responsive hence it can support other devices as well.
 
 
   ## Contributing
