@@ -253,7 +253,6 @@ nav a:hover{
         height: 35vh;
         width: 100%;
         padding-top: 10px;
-        background-color: green;
        
     }
     #page3 p{
@@ -265,7 +264,6 @@ nav a:hover{
     #register{
         height: 20vh;
         width: 100vw;
-        background-color: red;
         font-style: italic;
         text-align: center;
     }
