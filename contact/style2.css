@@ -119,8 +119,8 @@ textarea{
         padding-top: 9vh;
     }
     #profile{
-        height: 60vh;
-        width: 90vw;
+        height: 45vh;
+        width: 88vw;
         box-shadow: 0.5px 1px 0.5px 0px rgba(158, 153, 153, 0.97), 0.5px 0px 4px 1px rgba(113, 108, 108, 0.97);
         border-radius: 15px 15px 15px 15px;
         margin: 0 auto;
@@ -129,13 +129,13 @@ textarea{
         opacity: 0.85;
     }
     #profile .links{
-        width: 50%;
+        width: 50vw;
         
     }
     #profile .links img{
-        height: 20.5vh;
-        width: 22.5vw;
-        margin: 45px 0px 0px 60px;
+        height: 15.5vh;
+        width: 21.5vw;
+        margin: 45px 0px 0px 50px;
         border-radius: 15px 15px 15px 15px;
         box-shadow: 0.5px 1px 0.5px 0px rgba(158, 153, 153, 0.97), 0.5px 0px 4px 1px rgba(113, 108, 108, 0.97);
     }
@@ -152,15 +152,15 @@ textarea{
         display: flex;
         justify-content: space-around;
         align-items: center;
-        margin-top: 6vh;
-        margin-left: -5px;
+        margin-top: 3vh;
+        margin-left: -4.5px;
     }
     #socials .git img{
-        height: 6vh;
+        height: 4vh;
         width: 6vw;
     }
     #socials .linkedin img{
-        height: 6vh;
+        height: 4vh;
         width: 6vw;
     }
     #profile .info{
@@ -174,13 +174,13 @@ textarea{
         flex-direction: column;
         gap: 15px;
         margin: 0 auto;
-        padding-top: 35px;
+        padding-top: 30px;
       
     }
     
     input{
         width: 100%;
-        padding: 5.5px;
+        padding: 3px;
         margin-bottom: 8px;
         border-radius: 15px 15px 15px 15px;
         background-color: rgb(3, 3, 41);
@@ -198,7 +198,7 @@ textarea{
         border: none;
         background-color: orangered;
         color: white;
-        width: 200px;
+        width: 145px;
         margin: 0 auto;
     }
 }   
